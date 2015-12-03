@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">AnnotationsWorkshop</string>
+
+  <string name="nullness_annotation_title">NULLNESS</string>
+  <string name="resourceType_annotation_title">RESOURCE TYPE</string>
+  <string name="typedef_annotation_title">TYPEDEF</string>
+  <string name="threading_annotation_title">THREADING</string>
+  <string name="colorIntegers_annotation_title">COLOR INTEGERS</string>
+  <string name="valueConstraints_annotation_title">VALUE CONSTRAINTS</string>
+  <string name="permissions_annotation_title">PERMISSIONS</string>
+  <string name="overridingMethods_annotation_title">OVERRIDING METHODS</string>
+  <string name="returnValues_annotation_title">RETURN VALUES</string>
+</resources>

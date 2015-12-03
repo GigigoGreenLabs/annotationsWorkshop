@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+repositories {
+    jcenter()
+    maven { url '/Users/rui.alonso/Library/Android/sdk/extras/android/m2repository' }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    compile 'com.android.support:support-annotations:23.1.1'
+}
